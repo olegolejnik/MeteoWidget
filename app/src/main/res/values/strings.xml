@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">temp c° </string>
+    <string name="button_get">На виджет</string>
+    <string name="Text">Здесь будут данные)</string>
+
+    <string name="appwidget_text">Виджет бл.. С°</string>
+    <string name="add_widget">Добавить</string>
+</resources>
